@@ -7,3 +7,24 @@ body {
   background-color: #000;
   color: #0f0;
 }
+
+h1 {
+  font-size: 3rem;
+  color: #0f0;
+  text-align: center;
+}
+
+a {
+  color: #0f0;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #111;
+  color: #0f0;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
